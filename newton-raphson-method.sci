@@ -9,7 +9,7 @@
     *
 */
 
-function [] = newton(coeffs, x0, start, endVal)
+function [] = newton_raphson(coeffs, x0, start, endVal)
     functions = poly(coeffs, 'x', 'c')
     deriv = derivat(functions)
     for x = start: 0.0000001 : endVal
