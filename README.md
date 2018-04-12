@@ -10,3 +10,8 @@ Implementations:
   - [Langragian Interpolation](langrangian_interpolation.sci)
   - [Newton - Raphson Method](newton-raphson-method.sci)
   - [Solving ODEs using Euler's and Runge-Kutta 4th Order Method](solvingODE.sce)
+  - [Amplitude Modulation](ampmod.sci)
+  - [Frequency Modulation](fmmod.sci)
+  - [PAM Modulation](pammod.sci)
+  - [ASK Modulation](askmod.sci)
+  - [PSK Modulation](pskmod.sci)
