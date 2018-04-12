@@ -4,9 +4,9 @@
 
 Download SciLab [here.](https://www.scilab.org/en/download/6.0.1)
 
-Examples:
+Implementations:
   - [Bisection Method](bisection-method.sci)
   - [Integration - Definite](integration.sci)
-  - [Langragian Interpolation](langragian_interpolation.sci)
+  - [Langragian Interpolation](langrangian_interpolation.sci)
   - [Newton - Raphson Method](newton-raphson-method.sci)
   - [Solving ODEs using Euler's and Runge-Kutta 4th Order Method](solvingODE.sce)
